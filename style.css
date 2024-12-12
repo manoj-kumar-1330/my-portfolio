@@ -264,7 +264,7 @@ form .btn2{
 @media only screen and (max-width:600px){
     #header{
     width: 100%;
-    height: 130vh; /* Increase height */
+    height: 110vh; /* Increase height */
     background: black;
     }
     .header-text{
@@ -273,7 +273,7 @@ form .btn2{
         font-size: 16px;
     }
     .header-text h1{
-        font-size: 30px;
+        font-size: 40px;
     }
     nav .fas{
         display: block;
