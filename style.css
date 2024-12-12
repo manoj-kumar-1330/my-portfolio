@@ -263,7 +263,9 @@ form .btn2{
 
 @media only screen and (max-width:600px){
     #header{
-    background-image: url("https://w0.peakpx.com/wallpaper/138/154/HD-wallpaper-developer-coding-programming-science-tech-technology-thumbnail.jpg");
+     width: 100%;
+     height: 120vh; 
+     background: black;
     }
     .header-text{
         text-align: center;
